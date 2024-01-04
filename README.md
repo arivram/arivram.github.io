@@ -1,3 +1,3 @@
-# Responsive Portfolio Website Arivarasan Ramasamy
+# Portfolio Website - Arivarasan Ramasamy
 
 https://arivram.github.io/
